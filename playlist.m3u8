@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1 tvh-epg="0" tvg-logo="ctivysilani.png" group-title="iVysilani+" tvh-chnum="6.1" tvg-id="CH_25",CT iVysilani+ 1
+pipe:///home/kodi/TVServer/playlist/ivysilani/streamer.sh CH_25
+#EXTINF:-1 tvh-epg="0" tvg-logo="ctivysilani.png" group-title="iVysilani+" tvh-chnum="6.2" tvg-id="CH_26",CT iVysilani+ 2
+pipe:///home/kodi/TVServer/playlist/ivysilani/streamer.sh CH_26
+#EXTINF:-1 tvh-epg="0" tvg-logo="ctivysilani.png" group-title="iVysilani+" tvh-chnum="6.3" tvg-id="CH_27",CT iVysilani+ 3
+pipe:///home/kodi/TVServer/playlist/ivysilani/streamer.sh CH_27
+#EXTINF:-1 tvh-epg="0" tvg-logo="ctivysilani.png" group-title="iVysilani+" tvh-chnum="6.4" tvg-id="CH_28",CT iVysilani+ 4
+pipe:///home/kodi/TVServer/playlist/ivysilani/streamer.sh CH_28
+#EXTINF:-1 tvh-epg="0" tvg-logo="ctivysilani.png" group-title="iVysilani+" tvh-chnum="6.5" tvg-id="CH_29",CT iVysilani+ 5
+pipe:///home/kodi/TVServer/playlist/ivysilani/streamer.sh CH_29
+#EXTINF:-1 tvh-epg="0" tvg-logo="ctivysilani.png" group-title="iVysilani+" tvh-chnum="6.6" tvg-id="CH_30",CT iVysilani+ 6
+pipe:///home/kodi/TVServer/playlist/ivysilani/streamer.sh CH_30
+#EXTINF:-1 tvh-epg="0" tvg-logo="ctivysilani.png" group-title="iVysilani+" tvh-chnum="6.7" tvg-id="CH_31",CT iVysilani+ 7
+pipe:///home/kodi/TVServer/playlist/ivysilani/streamer.sh CH_31
+#EXTINF:-1 tvh-epg="0" tvg-logo="ctivysilani.png" group-title="iVysilani+" tvh-chnum="6.8" tvg-id="CH_31",CT iVysilani+ 8
+pipe:///home/kodi/TVServer/playlist/ivysilani/streamer.sh CH_32
+#EXTINF:-1 tvh-epg="0" tvg-logo="ctivysilani.png" group-title="iVysilani+" tvh-chnum="6.9" tvg-id="CH_MOB_01",CT iVysilani+ 9
+pipe:///home/kodi/TVServer/playlist/ivysilani/streamer.sh CH_MOB_01
+#EXTINF:-1 tvh-epg="0" tvg-logo="ctivysilani.png" group-title="iVysilani+" tvh-chnum="6.10" tvg-id="CH_MP_01",CT iVysilani+ 10
+pipe:///home/kodi/TVServer/playlist/ivysilani/streamer.sh CH_MP_01
+#EXTINF:-1 tvh-epg="0" tvg-logo="ctivysilani.png" group-title="iVysilani+" tvh-chnum="6.11" tvg-id="CH_MP_02",CT iVysilani+ 11
+pipe:///home/kodi/TVServer/playlist/ivysilani/streamer.sh CH_MP_02
+#EXTINF:-1 tvh-epg="0" tvg-logo="ctivysilani.png" group-title="iVysilani+" tvh-chnum="6.12" tvg-id="CH_MP_03",CT iVysilani+ 12
+pipe:///home/kodi/TVServer/playlist/ivysilani/streamer.sh CH_MP_03
+#EXTINF:-1 tvh-epg="0" tvg-logo="ctivysilani.png" group-title="iVysilani+" tvh-chnum="6.13" tvg-id="CH_MP_04",CT iVysilani+ 13
+pipe:///home/kodi/TVServer/playlist/ivysilani/streamer.sh CH_MP_04
+#EXTINF:-1 tvh-epg="0" tvg-logo="ctivysilani.png" group-title="iVysilani+" tvh-chnum="6.14" tvg-id="CH_MP_05",CT iVysilani+ 14
+pipe:///home/kodi/TVServer/playlist/ivysilani/streamer.sh CH_MP_05
+#EXTINF:-1 tvh-epg="0" tvg-logo="ctivysilani.png" group-title="iVysilani+" tvh-chnum="6.15" tvg-id="CH_MP_06",CT iVysilani+ 15
+pipe:///home/kodi/TVServer/playlist/ivysilani/streamer.sh CH_MP_06
+#EXTINF:-1 tvh-epg="0" tvg-logo="ctivysilani.png" group-title="iVysilani+" tvh-chnum="6.16" tvg-id="CH_MP_07",CT iVysilani+ 16
+pipe:///home/kodi/TVServer/playlist/ivysilani/streamer.sh CH_MP_07
+#EXTINF:-1 tvh-epg="0" tvg-logo="ctivysilani.png" group-title="iVysilani+" tvh-chnum="6.17" tvg-id="CH_MP_08",CT iVysilani+ 17
+pipe:///home/kodi/TVServer/playlist/ivysilani/streamer.sh CH_MP_08
