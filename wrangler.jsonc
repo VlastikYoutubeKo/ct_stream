@@ -1,0 +1,8 @@
+{
+  "name": "yes",
+  "main": "index.py",
+  "compatibility_flags": [
+    "python_workers"
+  ],
+  "compatibility_date": "2025-05-19",
+}
